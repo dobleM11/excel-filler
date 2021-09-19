@@ -1,1 +1,2 @@
 # excel-filler
+Es un programa que recibe una plantilla y una lista de datos para rellenar dicha plantilla, como salida entrega un excel con una hoja por cada dato de la lista y en dicha hoja aparece la plantilla llena con los datos
